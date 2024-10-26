@@ -1,0 +1,2 @@
+# Asynchromous
+A learning process 
